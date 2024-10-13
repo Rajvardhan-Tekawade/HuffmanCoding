@@ -5,7 +5,6 @@
 | This project consists of an interactive web tool to learn about Huffman Coding, backed with theory to understand its key concepts. |
 |---|
 
-The website is live and hosted at: https://huffman-coding-online.vercel.app/ 
 
 ## How does it work?
 
