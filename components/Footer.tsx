@@ -20,7 +20,7 @@ export const Footer: FC = () => {
             to understand the key concepts.
           </p>
           <p className="mt-2">
-            This website was developed as part of the Advanced Data Structures and Algorithms course of the Computer Engineering Degree at <i>Vishwakarma Institute of Technology</i>, Kondhwa.
+            This website was developed as part of the Advanced Data Structures and Algorithms course of the Computer Engineering Degree at <i>Vishwakarma Institute of Technology</i>, Kondhwa, Pune.
           </p>
         </section>
         <section className="max-w-2xl mt-4 leading-tight text-sm">
@@ -95,12 +95,12 @@ export const Footer: FC = () => {
       <div className="h-10 bg-primary bg-tess-2-light bg-repeat-x bg-center"></div>
       <section className="flex justify-center items-center text-xs pb-6 pt-6 font-serif italic">
         <p>Developed by</p>
-        <Link href="https://github.com/aymyo">
+        <Link href="https://github.com/Rajvardhan-Tekawade">
           <a target="_blank" className="btn-light text-xs font-base mx-2 mb-1">
-            @aymyo
+            @Rajvardhan-Tekawade
           </a>
         </Link>
-        <p>from Barcelona in 2021</p>
+        <p>from Pune in 2024</p>
       </section>
     </footer>
   );
