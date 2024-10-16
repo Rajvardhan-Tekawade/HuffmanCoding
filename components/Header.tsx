@@ -57,12 +57,7 @@ export const Header: FC = () => {
           <button
             className="btn mr-2"
             onClick={() => {
-              checkDisplayMode();
-              if (!isStandalone) {
-                alert(
-                  "Hey! If you are using this site often, you can install it as a progressive web app to make it more efficient. Check the information in you browser navigation bar!"
-                );
-              }
+              window.location.href = "https://huffman-file-compression.vercel.app/";
             }}
           >
             online
