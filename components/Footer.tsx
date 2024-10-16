@@ -36,7 +36,7 @@ export const Footer: FC = () => {
               "Eminent UCSC computer scientist David Huffman dies at age 74"
             </a>
             . Currents Online. University of California, Santa Cruz. Archived
-            from the original on July 16, 2011. Accessed 14 December 2021.
+            from the original on July 16, 2011.
             <br />
           </small>
           <small>
@@ -50,7 +50,7 @@ export const Footer: FC = () => {
               "Profile: Information Theorist David A. Huffman"
             </a>
             . Scientific American. Vol. 265 no. 3. Nature Publishing Group. pp.
-            54–58. Accessed 14 December 2021. <br />
+            54–58. <br />
           </small>
           <small>
             [3]: Barbay, J., 2019.
@@ -62,7 +62,7 @@ export const Footer: FC = () => {
             >
               Optimal Prefix Free Codes with Partial Sorting. Algorithms
             </a>
-            , [online] 13(1), p.12. Accessed 14 December 2021. <br />
+            , [online] 13(1), p.12.<br />
           </small>
           <small>
             [4]: Davis, E., Demaine, E., Demaine, M. and Ramseyer, J., 2013.
@@ -74,8 +74,7 @@ export const Footer: FC = () => {
             >
               Reconstructing David Huffman's Origami Tessellations
             </a>
-            . Journal of Mechanical Design, [online] 135(11). Accessed 4
-            December 2021.
+            . Journal of Mechanical Design, [online] 135(11).
             <br />
           </small>
           <small>
@@ -88,7 +87,7 @@ export const Footer: FC = () => {
             >
               Arithmetic coding.
             </a>
-            [online] W3.ual.es. Available at: Accessed 14 December 2021.
+            [online] W3.ual.es.
           </small>
         </section>
       </div>
