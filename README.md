@@ -51,9 +51,4 @@ As a curiosity, David A. Huffman, the author of the algorithm with his name, was
 
 ---
 
-#### References
-Typography: [Inria Sans & Inria Serif](https://github.com/BlackFoundryCom/InriaFonts)
 
-This website was developed as part of the Audio Codification Systems course of the Audiovisual Systems Engineering Degree at Universitat Pompeu Fabra, Barcelona.
-
-**License:** MIT
